@@ -37,6 +37,4 @@ To login to Sitefinity backend, use the following credentials:
 
 ### Additional resources
 
-[Developers Guide](http://www.sitefinity.com/documentation/documentationarticles/developers-guide)
-
-[Create Porduct module](http://www.sitefinity.com/documentation/documentationarticles/developers-guide/sitefinity-essentials/modules/creating-custom-modules/creating-products-module)
+[Related data field](http://www.sitefinity.com/documentation/documentationarticles/related-data-field)
