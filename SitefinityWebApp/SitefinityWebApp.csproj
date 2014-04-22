@@ -625,9 +625,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AzureWebRole.cs" />
-    <Compile Include="Global.asax.cs">
-      <DependentUpon>Global.asax</DependentUpon>
-    </Compile>
     <Compile Include="MySessions.ascx.cs">
       <DependentUpon>MySessions.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -649,7 +646,6 @@
     <Content Include="ClientBin\Telerik.Sitefinity.Silverlight.xap" />
     <Content Include="CustomLogin.ascx" />
     <Content Include="Default.aspx" />
-    <Content Include="Global.asax" />
     <Content Include="MySessions.ascx" />
     <Content Include="Sessions.ascx" />
     <Content Include="Silverlight.js" />
@@ -765,7 +761,6 @@
     <Content Include="web.config">
       <SubType>Designer</SubType>
     </Content>
-    <Content Include="wlwmanifest.xml" />
     <Content Include="Mvc\Controllers\readme.txt" />
     <Content Include="Mvc\Models\readme.txt" />
     <Content Include="Mvc\Views\readme.txt" />
