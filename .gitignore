@@ -180,3 +180,6 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+SitefinityWebApp/App_Data/Sitefinity/Sitefinity.lic
+SitefinityWebApp/bin/SitefinityWebApp.dll
+SitefinityWebApp/bin/SitefinityWebApp.pdb
