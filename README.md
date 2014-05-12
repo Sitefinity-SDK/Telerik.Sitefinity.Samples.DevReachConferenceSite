@@ -1,6 +1,8 @@
 DevReachConferenceSite
 ======================
 
+[![Build Status](http://sdk-jenkins-ci.cloudapp.net/buildStatus/icon?job=Telerik.Sitefinity.Samples.DevReachConferenceSite.CI)](http://sdk-jenkins-ci.cloudapp.net/job/Telerik.Sitefinity.Samples.DevReachConferenceSite.CI/)
+
 The DevReach sample project demonstrates how to create a simple conference site utilizing the Related Data feature capabilities in Sitefinity 7.0 or later.
 
 Using the DevReach sample, you can:
