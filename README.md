@@ -37,5 +37,9 @@ To login to Sitefinity backend, use the following credentials:
 
 ### Additional resources
 
+**Youtube video:**   
+Check the follow up [video] (https://www.youtube.com/watch?v=WVKasAtZZYk) for the Sitefinity partner webinar aired on 08 April 2014.    
+[![Related Content](https://raw.githubusercontent.com/Sitefinity-SDK/Telerik.Sitefinity.Samples.DevReachConferenceSite/master/EmbedVideo.png)](http://youtu.be/WVKasAtZZYk)
+
+**Sitefinity documentation:**   
 Sitefinity 7.0 enables you relate content to any other content, thus relating items of different types. Developer documentation about the new powerful Related data field can be found [here](http://www.sitefinity.com/documentation/documentationarticles/related-data-field).
-You can also check the follow up [video] (https://www.youtube.com/watch?v=WVKasAtZZYk) for the Sitefinity partner webinar aired on 08 April 2014.
