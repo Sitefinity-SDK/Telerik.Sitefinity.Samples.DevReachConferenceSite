@@ -30,21 +30,20 @@ For a history and additional information related to package versions on differen
 ### Installation instructions: DevReachConferenceSite Sample from GitHub
 
 1. Restore the data base of the project ('DevReach.bak') located in _SitefinityWebApp_ folder on your local server
-2. In the Solution Explorer, navigate to _SitefinityWebApp_ -> *App_Data* -> _Sitefinity_ -> _Configuration_ and select the **DataConfig.config** file. 
+1. In Solution Explorer, navigate to _SitefinityWebApp_ » *App_Data* » _Sitefinity_ » _Configuration_ and select the **DataConfig.config** file. 
 3. Modify the **connectionString** value to match your server address and database.
 
 ### Login
 
-To login to Sitefinity backend, use the following credentials: 
-
-**Username:** admin
+To login to Sitefinity backend, use the following credentials:  
+**Username:** admin  
 **Password:** password
 
 ### Additional resources
 
-**Youtube video:**   
-Check the follow up [video] (https://www.youtube.com/watch?v=WVKasAtZZYk) for the Sitefinity partner webinar aired on 08 April 2014.    
+#### Youtube video:   
+Check the follow up [video](https://www.youtube.com/watch?v=WVKasAtZZYk) for the Sitefinity partner webinar aired on 08 April 2014.    
 [![Related Content](https://raw.githubusercontent.com/Sitefinity-SDK/Telerik.Sitefinity.Samples.DevReachConferenceSite/master/EmbedVideo.png)](http://youtu.be/WVKasAtZZYk)
 
-**Sitefinity documentation:**   
-Sitefinity 7.0 enables you relate content to any other content, thus relating items of different types. Developer documentation about the new powerful Related data field can be found [here](http://www.sitefinity.com/documentation/documentationarticles/related-data-field).
+#### Sitefinity documentation:   
+Sitefinity 7.0+ enables you relate content to any other content, thus relating items of different types. For  developer documentation about this powerful _Related data_ field can be at [Content relations: Related data](http://docs.sitefinity.com/content-relations-related-data).
