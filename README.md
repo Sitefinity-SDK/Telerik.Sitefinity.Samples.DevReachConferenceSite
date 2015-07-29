@@ -14,9 +14,9 @@ Using the DevReach sample, you can:
 
 ### Requirements
 
-As the DevReach sample project is a simple Sitefinity 7.0 project it has the standard [system requirements](http://www.sitefinity.com/documentation/documentationarticles/installation-and-administration-guide/install-sitefinity/system-requirements-).
+As the DevReach sample project is a simple Sitefinity 8.0 project it has the standard [system requirements](http://www.sitefinity.com/documentation/documentationarticles/installation-and-administration-guide/install-sitefinity/system-requirements-).
 
-* Sitefinity 7.0 license
+* Sitefinity 8.0 license
 * .NET Framework 4
 * Visual Studio 2012
 * Microsoft SQL Server 2008R2 or later versions
