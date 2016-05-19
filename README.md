@@ -3,7 +3,7 @@ DevReachConferenceSite
 
 [![Build Status](http://sdk-jenkins-ci.cloudapp.net/buildStatus/icon?job=Telerik.Sitefinity.Samples.DevReachConferenceSite.CI)](http://sdk-jenkins-ci.cloudapp.net/job/Telerik.Sitefinity.Samples.DevReachConferenceSite.CI/)
 
-The DevReach sample project demonstrates how to create a simple conference site utilizing the Related Data feature capabilities in Sitefinity 7.0 or later.
+The DevReach sample project demonstrates how to create a simple conference site utilizing the Related Data feature capabilities in Sitefinity CMS 7.0 or later.
 
 Using the DevReach sample, you can:
 
@@ -16,7 +16,7 @@ Using the DevReach sample, you can:
 
 As the DevReach sample project is a simple Sitefinity 8.0 project it has the standard [system requirements](http://www.sitefinity.com/documentation/documentationarticles/installation-and-administration-guide/install-sitefinity/system-requirements-).
 
-* Sitefinity 8.0 license
+* Sitefinity CMS 8.0 license
 * .NET Framework 4
 * Visual Studio 2012
 * Microsoft SQL Server 2008R2 or later versions
@@ -35,7 +35,7 @@ For a history and additional information related to package versions on differen
 
 ### Login
 
-To login to Sitefinity backend, use the following credentials:  
+To login into the Sitefinity CMS backend, use the following credentials:  
 **Username:** admin  
 **Password:** password
 
@@ -45,5 +45,5 @@ To login to Sitefinity backend, use the following credentials:
 Check the follow up [video](https://www.youtube.com/watch?v=WVKasAtZZYk) for the Sitefinity partner webinar aired on 08 April 2014.    
 [![Related Content](https://raw.githubusercontent.com/Sitefinity-SDK/Telerik.Sitefinity.Samples.DevReachConferenceSite/master/EmbedVideo.png)](http://youtu.be/WVKasAtZZYk)
 
-#### Sitefinity documentation:   
-Sitefinity 7.0+ enables you relate content to any other content, thus relating items of different types. For  developer documentation about this powerful _Related data_ field can be at [Content relations: Related data](http://docs.sitefinity.com/content-relations-related-data).
+#### Progress Sitefinity CMS Documentation:   
+Sitefinity CMS 7.0+ enables you relate content to any other content, thus relating items of different types. For  developer documentation about this powerful _Related data_ field can be at [Content relations: Related data](http://docs.sitefinity.com/content-relations-related-data).
