@@ -1,6 +1,9 @@
 DevReachConferenceSite
 ======================
 
+### This repository is not automatically upgraded to latest Sitefintiy version. The repository is monitored for pull requests and fixes. The latest official version of Sitefinity that supports this sample is 8.2. Be aware that using a higher version could cause unexpected behavior. If you successfully upgrade the example to a greater version, please share your work with the community by submitting your changes via pull request.
+
+
 [![Build Status](http://sdk-jenkins-ci.cloudapp.net/buildStatus/icon?job=Telerik.Sitefinity.Samples.DevReachConferenceSite.CI)](http://sdk-jenkins-ci.cloudapp.net/job/Telerik.Sitefinity.Samples.DevReachConferenceSite.CI/)
 
 The DevReach sample project demonstrates how to create a simple conference site utilizing the Related Data feature capabilities in Sitefinity CMS 7.0 or later.
