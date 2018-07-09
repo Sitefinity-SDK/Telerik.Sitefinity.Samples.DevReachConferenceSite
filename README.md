@@ -3,6 +3,8 @@ DevReachConferenceSite
 
 >**Latest supported version**: Sitefinity CMS 11.0.6700.0
 
+>**Documentation articles**: [Tutorial: Create DevReach site with related data feature](https://docs.sitefinity.com/tutorial-create-devreach-site-with-related-data-feature)
+
 ### Overview
 
 The DevReach sample project demonstrates how to create a simple conference site utilizing the Related Data feature capabilities.
