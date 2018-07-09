@@ -1,4 +1,4 @@
-DevReachConferenceSite
+Telerik.Sitefinity.Samples.DevReachConferenceSite
 =====================================
 
 >**Latest supported version**: Sitefinity CMS 11.0.6700.0
